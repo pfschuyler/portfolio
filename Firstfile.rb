@@ -7,3 +7,6 @@ p x+y
 p "fun times".classs
 p "want some fun this weekend"
 p 12*124
+
+# Lets try this some more
+p 12 == 6+6
